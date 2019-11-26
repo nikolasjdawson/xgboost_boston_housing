@@ -1,2 +1,4 @@
-# xgboost_boston_housing
-Practice with XGBoost to predict Boston housing prices
+# xgboost_practice
+Practice with XGBoost to predict: 
+- Boston housing prices
+- Diabetes (binary classification)
